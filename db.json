@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Bulbul, black-eyed","category":"BMW"},
+{"id":2,"name":"Hawk-eagle, crowned","category":"Bentley"},
+{"id":3,"name":"Heron, green-backed","category":"Nissan"},
+{"id":4,"name":"Snake (unidentified)","category":"Lexus"},
+{"id":5,"name":"Cape clawless otter","category":"Pontiac"},
+{"id":6,"name":"Grey mouse lemur","category":"Chevrolet"},
+{"id":7,"name":"Macaque, japanese","category":"Mazda"},
+{"id":8,"name":"Eastern box turtle","category":"Land Rover"},
+{"id":9,"name":"Blue catfish","category":"Subaru"},
+{"id":10,"name":"Wallaroo, common","category":"Ford"},
+{"id":11,"name":"Cape clawless otter","category":"GMC"},
+{"id":12,"name":"Beaver, european","category":"Toyota"},
+{"id":13,"name":"Sun gazer","category":"Mitsubishi"},
+{"id":14,"name":"Manatee","category":"Mitsubishi"},
+{"id":15,"name":"Eastern dwarf mongoose","category":"Volvo"},
+{"id":16,"name":"Jabiru stork","category":"Nissan"},
+{"id":17,"name":"Peacock, indian","category":"Lotus"},
+{"id":18,"name":"Goose, cape barren","category":"Dodge"},
+{"id":19,"name":"Olive baboon","category":"Acura"},
+{"id":20,"name":"Red-cheeked cordon bleu","category":"Mitsubishi"}
+]
+}
